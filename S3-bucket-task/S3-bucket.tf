@@ -28,3 +28,5 @@ variable "s3_bucket_names" {
   type = list
   default = ["asdf-bucket-01", "ghjk-bucket-02", "qwer-bucket-03", "tyui-bucket-04", "zxcv-bucket-05" ]
 }
+
+
